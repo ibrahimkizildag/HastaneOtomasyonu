@@ -1,0 +1,11 @@
+Yönetici Kullanıcı Adı: Yonetici
+Yönetici Şifre: Yonetici
+
+Sekreter Kullanıcı Adı: sekreter
+Sekreter Şifre: sekreter
+
+Hasta Kullanıcı Adı: Hasta
+Hasta Şifre: Hasta
+
+Doktor Kullanıcı Adı: admin
+Doktor Şifre: admin
